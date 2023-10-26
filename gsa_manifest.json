@@ -1,0 +1,55 @@
+{
+  "background_color": "#ffffff",
+  "description": "Inglês e Espanhol com foco em conversação",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Goodstart+",
+  "orientation": "any",
+  "scope": "https://goodstart.com.br",
+  "short_name": "Goodstart+",
+  "start_url": "https://goodstart.com.br/area-do-aluno",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ],
+  "screenshots": [
+    {
+      "src": "https://goodstartplus.github.io/sitefiles/screenshot1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goodstartplus.github.io/sitefiles/screenshot1.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goodstartplus.github.io/sitefiles/screenshot1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goodstartplus.github.io/sitefiles/screenshot1.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://goodstartplus.github.io/sitefiles/app_start_logo.gif",
+      "type": "image/gif",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://super-static-assets.s3.amazonaws.com/dd14dfd7-0d06-4d3e-b02a-ef523ae7da6b/uploads/cover/dd2da50e-f035-43ef-8977-cd5dd7a1fe9c.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt"
+}
