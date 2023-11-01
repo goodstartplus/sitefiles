@@ -1,0 +1,19 @@
+
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <script src='https://8x8.vc/vpaas-magic-cookie-c4ba9f870a4f4b70b3c276933e82be6d/external_api.js' async></script>
+        <style>html, body, #jaas-container { height: 100%; }</style>
+        <script type="text/javascript">
+          window.onload = () => {
+            const api = new JitsiMeetExternalAPI("8x8.vc", {
+              roomName: "vpaas-magic-cookie-c4ba9f870a4f4b70b3c276933e82be6d/44b404",
+              parentNode: document.querySelector('#jaas-container'),
+							jwt: "eyJraWQiOiJ2cGFhcy1tYWdpYy1jb29raWUtYzRiYTlmODcwYTRmNGI3MGIzYzI3NjkzM2U4MmJlNmQvNDRiNDA0IiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJqaXRzaSIsImlzcyI6ImNoYXQiLCJuYmYiOjE2OTg4MDA4NzUsInN1YiI6InZwYWFzLW1hZ2ljLWNvb2tpZS1jNGJhOWY4NzBhNGY0YjcwYjNjMjc2OTMzZTgyYmU2ZCIsImNvbnRleHQiOnsiZmVhdHVyZXMiOnsibGl2ZXN0cmVhbWluZyI6dHJ1ZSwib3V0Ym91bmQtY2FsbCI6dHJ1ZSwic2lwLW91dGJvdW5kLWNhbGwiOmZhbHNlLCJ0cmFuc2NyaXB0aW9uIjp0cnVlLCJyZWNvcmRpbmciOnRydWV9LCJ1c2VyIjp7ImhpZGRlbi1mcm9tLXJlY29yZGVyIjpmYWxzZSwibW9kZXJhdG9yIjpmYWxzZSwibmFtZSI6ImFsdW5vIiwiaWQiOiJqamhqamhqamgiLCJhdmF0YXIiOiIiLCJlbWFpbCI6ImdhY2l0dWEuYW5kcmUyQGdtYWlsLmNvbSJ9fSwicm9vbSI6IjQ0YjQwNCJ9.Mhhn3k4-Zf0ZyFTt30n2k9NyXrGrwVIhHSGJnu6EOhJ8VJkT3VUTQac9iTCQtTjVpvVrt0vx8PDtCfHzDfD61Qsr9DQSJ6wC5vdNzufko6rdpM-gxHyNVgRyE411gbbB_aTE9RW3vJAuJNnbN_zPlyfLH8UA-DdxOr8jdm0Hnh7Iuuqak2OJCA1vWd4DhTHzxH0F25RXkhkzoyYCGTucGWYC_yNb_AVF2m-V-KjIneT-3_3D12DBvh8lUj9JpTdvDvHRpQkurc6tJ7SUCVjET-sIObY5KDJfynJLQ7M1EYZOU_AmXTDfbCYFka-z8aIYXbl5py16jKPgQeFj1g6mKQ"
+            });
+          }
+        </script>
+      </head>
+      <body><div id="jaas-container" /></body>
+    </html>
+     
