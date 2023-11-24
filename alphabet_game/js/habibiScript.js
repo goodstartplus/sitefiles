@@ -120,10 +120,10 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('mute-button').onclick = function() {
     if (audioPlayer.muted === false) {
       audioPlayer.muted = true;
-      document.getElementById('mute-button').innerHTML = "Unmute Sounds";
+      document.getElementById('mute-button').innerHTML = "Ouvir o som";
     } else {
       audioPlayer.muted = false;
-      document.getElementById('mute-button').innerHTML = "Mute Sounds";
+      document.getElementById('mute-button').innerHTML = "Silenciar";
     }
   }
 
