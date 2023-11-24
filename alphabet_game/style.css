@@ -129,14 +129,14 @@ hr {
 .char-cont {
   width: 100%;
   position: absolute;
-  top: 50%;
+  top: 30%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   z-index: -1;
 }
 
 .char {
-  font-size: 160px;
+  font-size: 60px;
   font-weight: 300;
   position: relative;
 }
