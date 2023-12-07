@@ -48,7 +48,17 @@ H5P.RequestQueue=function(n,t){function e(e){t.call(this),this.processingQueue=!
         <style>
 .h5p-crossword-input-container {width: 80%!important;}
 .h5p-crossword-table-wrapper {width: 50%!important;}
-            body {overflow: hidden;}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+            
 </style> 
     </head>
     <body>
