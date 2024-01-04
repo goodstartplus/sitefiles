@@ -54,14 +54,4 @@
   "lang": "pt"
 }
 
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "br.com.goodstart.twa",
-      "sha256_cert_fingerprints":
-        ["D7:47:83:AE:CA:45:3C:14:85:2A:11:BF:1C:E0:9F:57:8F:A7:94:95:80:92:8D:B4:12:D2:4D:EC:FA:86:5E:53"]
-    }
-  }
-]
+
