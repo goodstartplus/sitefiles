@@ -43,6 +43,11 @@
     {
       "src": "https://super-static-assets.s3.amazonaws.com/dd14dfd7-0d06-4d3e-b02a-ef523ae7da6b/uploads/cover/dd2da50e-f035-43ef-8977-cd5dd7a1fe9c.png",
       "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://super-static-assets.s3.amazonaws.com/dd14dfd7-0d06-4d3e-b02a-ef523ae7da6b/uploads/cover/dd2da50e-f035-43ef-8977-cd5dd7a1fe9c.png",
+      "type": "image/png",
       "sizes": "500x500"
     },
     {
