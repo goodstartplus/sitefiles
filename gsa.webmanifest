@@ -56,8 +56,8 @@
       "sizes": "500x500"
     },
     {
-      "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-48x48v2.ico",
-      "type": "image/x-icon",
+      "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-48x48v3.png",
+      "type": "image/png",
       "sizes": "48x48",
       "purpose": "maskable any"
     }
