@@ -1,5 +1,5 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#000000",
   "description": "Inglês e Espanhol com foco em conversação",
   "dir": "ltr",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "scope": "https://goodstart.com.br",
   "short_name": "Goodstart+",
   "start_url": "https://goodstart.com.br/area-do-aluno",
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
   "categories": [
     "education"
   ],
@@ -36,7 +36,7 @@
   ],
   "icons": [
 {
-      "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96.png",
+      "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
       "type": "image/png",
       "sizes": "96x96"
     },    
@@ -56,8 +56,9 @@
       "sizes": "500x500"
     },
     {
-      "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-48x48.ico",
-      "type": "image/x-icon"
+      "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-48x48v2.ico",
+      "type": "image/x-icon",
+      "sizes": "48x48"
     }
   ],
    "shortcuts": [
@@ -81,7 +82,12 @@
       "url": "https://goodstart.com.br/area-do-aluno/sala-1-alunos",
       "description": "Sala para entrar nas aulas ao vivo"
     }
-  ],  "lang": "pt"
+  ],  
+"lang": "pt",
+"display_override": [
+    "fullscreen",
+    "window-controls-overlay"
+  ]
 }
 
 
