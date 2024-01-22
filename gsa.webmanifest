@@ -73,7 +73,7 @@
       "description": "Acervo de materiais para melhorar o seu inglês, do iniciante ao avançado",
       "icons": [
         {
-          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "src": "https://goodstartplus.github.io/sitefiles/biblioteca.png",
           "sizes": "96x96"
         }
       ]
@@ -84,7 +84,7 @@
       "description": "Espaço dedicado aos alunos inicantes de inglês",
        "icons": [
         {
-          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "src": "https://goodstartplus.github.io/sitefiles/para-iniciantes.png",
           "sizes": "96x96"
         }
       ]
@@ -95,7 +95,7 @@
       "description": "Programa gamificado, exclusivo para alunos da Goodstart",
       "icons": [
         {
-          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "src": "https://goodstartplus.github.io/sitefiles/gs-awards.png",
           "sizes": "96x96"
         }
       ]
@@ -106,7 +106,7 @@
       "description": "Sala para entrar nas aulas ao vivo",
       "icons": [
         {
-          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "src": "https://goodstartplus.github.io/sitefiles/aula-online.png",
           "sizes": "96x96"
         }
       ]
