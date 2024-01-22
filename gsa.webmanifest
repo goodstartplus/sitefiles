@@ -58,29 +58,54 @@
     {
       "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-48x48v2.ico",
       "type": "image/x-icon",
-      "sizes": "48x48"
+      "sizes": "48x48",
+      "purpose": "maskable any"
     }
   ],
    "shortcuts": [
     {
       "name": "Biblioteca",
       "url": "https://goodstart.com.br/area-do-aluno/ingles/biblioteca",
-      "description": "Acervo de materiais para melhorar o seu inglês, do iniciante ao avançado"
+      "description": "Acervo de materiais para melhorar o seu inglês, do iniciante ao avançado",
+      "icons": [
+        {
+          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "sizes": "96x96"
+        }
+      ]
     },
     {
       "name": "Para iniciantes",
       "url": "https://goodstart.com.br/area-do-aluno/ingles/para-iniciantes",
-      "description": "Espaço dedicado aos alunos inicantes de inglês"
+      "description": "Espaço dedicado aos alunos inicantes de inglês",
+       "icons": [
+        {
+          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "sizes": "96x96"
+        }
+      ]
     },
     {
       "name": "Great Student Awards",
       "url": "https://goodstart.com.br/great-student-awards",
-      "description": "Programa gamificado, exclusivo para alunos da Goodstart"
+      "description": "Programa gamificado, exclusivo para alunos da Goodstart",
+      "icons": [
+        {
+          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "sizes": "96x96"
+        }
+      ]
     },
     {
       "name": "Sala virtual",
       "url": "https://goodstart.com.br/area-do-aluno/sala-1-alunos",
-      "description": "Sala para entrar nas aulas ao vivo"
+      "description": "Sala para entrar nas aulas ao vivo",
+      "icons": [
+        {
+          "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
+          "sizes": "96x96"
+        }
+      ]
     }
   ],  
 "lang": "pt",
