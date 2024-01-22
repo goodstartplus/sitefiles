@@ -38,28 +38,32 @@
 {
       "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-96x96v2.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "96x96",
+"purpose": "maskable"
     },    
 {
       "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+"purpose": "maskable"
     },
     {
       "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+"purpose": "maskable"
     },
     {
       "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-500x500.png",
       "type": "image/png",
-      "sizes": "500x500"
+      "sizes": "500x500",
+"purpose": "maskable"
     },
     {
       "src": "https://goodstartplus.github.io/sitefiles/app-manifest-icon-48x48v3.png",
       "type": "image/png",
       "sizes": "48x48",
-      "purpose": "maskable any"
+      "purpose": "maskable"
     }
   ],
    "shortcuts": [
